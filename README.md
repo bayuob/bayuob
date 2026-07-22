@@ -77,12 +77,13 @@ I'm an Application & Solution Architect with 10+ years in software, specializing
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bayuob&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayuob&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=bayuob&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bayuob&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://img.shields.io/github/followers/bayuob?style=for-the-badge&logo=github&label=Followers&color=1f6feb" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/bayuob?style=for-the-badge&logo=github&label=Stars&color=0a7d33" alt="Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=8250df&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbayuob&logo=github" alt="Public repos" />
 </p>
 
 <br/>
@@ -90,12 +91,8 @@ I'm an Application & Solution Architect with 10+ years in software, specializing
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/bayuob/assignment-refactor-master">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bayuob&repo=assignment-refactor-master&hide_border=true&theme=tokyonight" alt="assignment-refactor-master" />
-  </a>
-  <a href="https://github.com/bayuob/awesome-ai-tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bayuob&repo=awesome-ai-tools&hide_border=true&theme=tokyonight" alt="awesome-ai-tools" />
-  </a>
+  <a href="https://github.com/bayuob/assignment-refactor-master"><img src="https://img.shields.io/badge/assignment--refactor--master-TypeScript-3178C6?style=for-the-badge&logo=github&logoColor=white" alt="assignment-refactor-master" /></a>
+  <a href="https://github.com/bayuob/awesome-ai-tools"><img src="https://img.shields.io/badge/awesome--ai--tools-AI%20Tools-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="awesome-ai-tools" /></a>
 </p>
 
 <br/>
