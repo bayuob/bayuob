@@ -83,7 +83,6 @@ I'm an Application & Solution Architect with 10+ years in software, specializing
 <p align="center">
   <img src="https://img.shields.io/github/followers/bayuob?style=for-the-badge&logo=github&label=Followers&color=1f6feb" alt="Followers" />
   <img src="https://img.shields.io/github/stars/bayuob?style=for-the-badge&logo=github&label=Stars&color=0a7d33" alt="Stars" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=8250df&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbayuob&logo=github" alt="Public repos" />
 </p>
 
 <br/>
